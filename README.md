@@ -24,7 +24,7 @@
 - **Registro y inicio de sesión de usuarios**: Los usuarios podrán registrarse e iniciar sesión para acceder a sus tareas desde cualquier dispositivo.
 - **Descripción detallada de tareas**: Al hacer clic en una tarea, los usuarios podrán ver una descripción detallada de la misma, lo que les permitirá agregar notas, fechas de vencimiento y más.
 - **Implementación**: La aplicación será implementada en un servidor para que los usuarios puedan acceder a ella en línea desde cualquier lugar.
-
+- **Alertas y notificaciones**: Nunca te olvidaras de una tarea importante
 
 ## Contribución
 
